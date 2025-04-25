@@ -6,7 +6,7 @@ Today, I decided to analyze the last 4 months of 2024.
 **[DATASET AND ANAYLSIS](my-account-analysis.xlsx)**
 
 
-**[IMAGE!](MY-ACCOUNT.PNG)**
+**![IMAGE](MY-ACCOUNT.PNG)**
 
 ## INSIGHTS I UNCOVERED:
 1. Almost all my income went into expenses, including part of my life savings
