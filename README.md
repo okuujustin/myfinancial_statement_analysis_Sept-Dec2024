@@ -3,7 +3,7 @@ I decided to tell a story about my last year finances as a data analyst.
 One of the decisions I made last year was to take a record of all my cash flow to the least currency. I tried many times and failed. I decided to learn and grow through the process. Today I am happy that I have become conscious about putting down all my financial activities no matter how small.
 Today I decided to analyze the last 4 months of 2024.
 
-**[DATASET AND ANAYLSIS]**(my-account-analysis.xlsx)
+**[DATASET AND ANAYLSIS](my-account-analysis.xlsx)**
 
 ## INSIGHTS I UNCOVERED:
 1. Almost all my income went into expenses including part of my life savings
