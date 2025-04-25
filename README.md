@@ -5,6 +5,12 @@ Today, I decided to analyze the last 4 months of 2024.
 
 **[DATASET AND ANAYLSIS](my-account-analysis.xlsx)**
 
+## DATA EXPLORATION PROCESS
+1. I recorded all inflows and outflows of money and thereafter categorized them accordingly in Excel
+2. Cleaned the dataset and prepared it for analysis
+3. Since the dataset is small, I used Pivot Table for my analysis
+4. Also created a dashboard using Pivot Table and Charts 
+
 ### MY FINANCIAL STATEMENT DASHBOARD.
 **![IMAGE](MY-ACCOUNT.PNG)**
 
@@ -22,6 +28,3 @@ Today, I decided to analyze the last 4 months of 2024.
 4. My savings are not for expenses.
 5. Family is everything
 
-I don't know who this is for. But I know that if you take time to analyze your finances, life will be a lot easier for you.
-hashtag#dataanalysis
-hashtag#datalovers
