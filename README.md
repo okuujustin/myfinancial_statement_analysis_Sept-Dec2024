@@ -5,7 +5,7 @@ Today, I decided to analyze the last 4 months of 2024.
 
 **[DATASET AND ANAYLSIS](my-account-analysis.xlsx)**
 
-
+### MY FINANCIAL STATEMENT DASHBOARD.
 **![IMAGE](MY-ACCOUNT.PNG)**
 
 ## INSIGHTS I UNCOVERED:
